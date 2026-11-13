@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/mrabeeh001/leetcode/tree/master/1280-students-and-examinations) |
 | [1407-top-travellers](https://github.com/mrabeeh001/leetcode/tree/master/1407-top-travellers) |
 | [1517-find-users-with-valid-e-mails](https://github.com/mrabeeh001/leetcode/tree/master/1517-find-users-with-valid-e-mails) |
+| [1527-patients-with-a-condition](https://github.com/mrabeeh001/leetcode/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/mrabeeh001/leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/mrabeeh001/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/mrabeeh001/leetcode/tree/master/1873-calculate-special-bonus) |
