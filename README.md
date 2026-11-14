@@ -17,4 +17,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/mrabeeh001/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/mrabeeh001/leetcode/tree/master/1873-calculate-special-bonus) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/mrabeeh001/leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/mrabeeh001/leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |
 <!---LeetCode Topics End-->
